@@ -1,0 +1,17 @@
+# Keep client data out of GitHub.
+# Only the script, tag lists and docs are uploaded.
+
+# Client site list (real SharePoint URLs) - use Sites.example.csv as the template
+Sites.csv
+
+# Anything the script produces
+CE_SiteExport/
+cache/
+*.log
+probe_*.csv
+SiteSummary_*.csv
+SiteDetail_*.csv
+*.xlsx
+
+# Old copies - Git keeps the history now
+_old/

@@ -1,0 +1,4 @@
+TagType,TagName
+SensitiveInformationType,All Credential Types
+SensitiveInformationType,General Password
+SensitiveInformationType,Credit Card Number
